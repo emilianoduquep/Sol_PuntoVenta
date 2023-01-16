@@ -1,0 +1,2 @@
+C:\Git\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Datos\obj\Debug\Sol_PuntoVenta.Datos.csproj.AssemblyReference.cache
+C:\Git\Sistemas\Sol_PuntoVenta\Sol_PuntoVenta.Datos\obj\Debug\Sol_PuntoVenta.Datos.csproj.CoreCompileInputs.cache
